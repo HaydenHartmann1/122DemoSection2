@@ -1,0 +1,14 @@
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\bin\Debug\net8.0\Hunting_The_Manticore_lvl_14.exe
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\bin\Debug\net8.0\Hunting_The_Manticore_lvl_14.deps.json
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\bin\Debug\net8.0\Hunting_The_Manticore_lvl_14.runtimeconfig.json
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\bin\Debug\net8.0\Hunting_The_Manticore_lvl_14.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\bin\Debug\net8.0\Hunting_The_Manticore_lvl_14.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.AssemblyInfoInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.AssemblyInfo.cs
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.csproj.CoreCompileInputs.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\refint\Hunting_The_Manticore_lvl_14.dll
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.pdb
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\Hunting_The_Manticore_lvl_14.genruntimeconfig.cache
+C:\Users\hahar\source\The_C#_Players_Guide\Hunting_The_Manticore_lvl_14\Hunting_The_Manticore_lvl_14\obj\Debug\net8.0\ref\Hunting_The_Manticore_lvl_14.dll
